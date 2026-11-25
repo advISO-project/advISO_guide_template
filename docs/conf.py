@@ -11,7 +11,7 @@ from datetime import date
 ## To do: Update guide name, author, copyright, release, version, and github_repo to match your guide.
 guide_name = 'advISO Guide Template'
 author = 'advISO Team'
-copyright = f'{author} & contributors'
+copyright = f'{date.today().year}, {author}'
 release = '0.1'
 version = '0.1.0'
 
